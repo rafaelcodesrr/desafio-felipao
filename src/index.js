@@ -21,3 +21,5 @@ if (xp < 1000 ){
     nivel = "Radiante"
 }
 console.log(`O Herói ${nomeHeroi} está no nível de ${nivel}`);
+
+//Filipão, peço desculpas pelo arquivo desktop.ini estou fazendo o projeto dentro da pasta do google driver.
